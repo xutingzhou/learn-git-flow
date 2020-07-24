@@ -4,4 +4,6 @@ fn main() {
     println!("{}", 1 + 2);
     println!("{}", 2 - 1);
     println!("{}", 3 - 2);
+    println!("{}", 7 - 2);
+    println!("{}", 8 - 2);
 }
